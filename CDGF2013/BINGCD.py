@@ -8,4 +8,3 @@ for l in s:
         r *= 2
         N /= 2
     print r
-
